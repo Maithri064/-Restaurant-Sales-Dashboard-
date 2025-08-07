@@ -1,8 +1,9 @@
 ## Restaurant Sales Dashboard – Power BI
-*Objective*
+# Objective
 Create an interactive dashboard to analyze restaurant sales, product performance, and customer behavior to assist business stakeholders in making informed decisions.
 
-🛠 Tools & Techniques
+# Tools & Techniques
+
 Power BI Desktop
 
 Power Query Editor for data cleaning
@@ -11,7 +12,8 @@ Calculated columns for Revenue, Profit, and Month-Year
 
 Interactive visualizations and slicers
 
-📌 Key KPIs
+# Key KPIs
+
 Total Revenue: ₹770K
 
 Total Quantity Sold: 117K units
@@ -20,7 +22,8 @@ Average Price: ₹7
 
 Total Orders: 254
 
-📈 Dashboard Visuals
+# Dashboard Visuals
+
 KPI Cards – Revenue, Quantity Sold, Average Price, Order Count
 
 Bar Charts – Product Performance, Profit by Purchase Type, City-wise Sales
@@ -31,16 +34,17 @@ Pie/Donut Charts – Purchase Type & Payment Method Share
 
 Slicers – Product Category, Payment Method
 
-💡 Key Insights
-🍔 Burgers lead all products in revenue (~₹0.38M)
+# Key Insights
 
-🌆 Lisbon & London are top-performing cities by sales volume
+- Burgers lead all products in revenue (~₹0.38M)
 
-💻 Online orders contribute the most profit among purchase types
+- Lisbon & London are top-performing cities by sales volume
 
-💳 Credit Card is the most popular payment method (47%)
+- Online orders contribute the most profit among purchase types
 
-📉 Revenue has shown a decline from December to November — may indicate seasonal sales trends
+- Credit Card is the most popular payment method (47%)
 
-✅ Outcome
+- Revenue has shown a decline from December to November — may indicate seasonal sales trends
+
+# Outcome
 Built an insightful Power BI dashboard that helps visualize critical business metrics and identify growth opportunities through clear, data-driven storytelling.
